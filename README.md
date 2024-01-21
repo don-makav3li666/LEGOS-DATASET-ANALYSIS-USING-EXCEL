@@ -1,0 +1,2 @@
+ The LEGO dataset consists of data that contains sets released from 1970 to 2022, including details on each set's theme, pieces, recommended age, retail price, and image.
+The dataset was gotten from Maven Analytics as a challenge to analysts to use our imagination and analytical prowess to piece together an interactive dashboard or visual that lets users explore the history and evolution of LEGO sets from the past 5 decades.
